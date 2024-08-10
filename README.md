@@ -4,7 +4,7 @@
 
 &nbsp;
 
-Você pode acessar o notebook [aqui]().
+Você pode acessar o notebook [aqui](https://github.com/hugoferraz5/Vk_analise_dados/blob/main/analise_vk.ipynb).
 
 ## Cenário
 
