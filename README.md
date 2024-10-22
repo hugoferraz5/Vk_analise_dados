@@ -30,7 +30,7 @@ O anúncio em si pode servir para análises mais qualitativas do seu estudo.
 <img src="https://github.com/user-attachments/assets/3a285291-2162-4c42-a0e4-442603d8fd5d" width="80%"/>
 </div>
 
-- O gráfico acima mostra que 84.07% do tráfego dos leads vieram do facebookads, ou seja, a grande maioria usa essa plataforma de anúncios.Também, pode ser investido anúncios no facebookads.
+- O gráfico abaixo mostra que 84.07% do tráfego dos leads vieram do facebookads, ou seja, a grande maioria usa essa plataforma de anúncios.Também, pode ser investido anúncios no facebookads.
 
 <div align='center'>
 <img src="https://github.com/user-attachments/assets/f6e7323e-c365-4512-8b20-416d1a8cb3c1" width="80%"/>
